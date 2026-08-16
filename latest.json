@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "minSupportedVersion": "0.4.0",
+  "version": "0.4.1",
+  "minSupportedVersion": "0.4.1",
   "mandatory": true,
-  "packageUrl": "https://github.com/Y4n9Ch/xiaohuohua-video-assistant-releases/releases/download/v0.4.0/xiaohuohua-video-assistant-v0.4.0.zip",
-  "sha256": "0f594800dd5762214ac8bc01663c6b372996e3a74ca40bb8e81b970785acc1a3"
+  "packageUrl": "https://github.com/Y4n9Ch/xiaohuohua-video-assistant-releases/releases/download/v0.4.1/xiaohuohua-video-assistant-v0.4.1.zip",
+  "sha256": "60eeca1e8a1a39ed8f6d10bc413f2a02b4a24b4b58860be9f7d7ccadccf3be03"
 }
